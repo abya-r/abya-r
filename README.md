@@ -7,6 +7,7 @@
 
 
 
+
 <!--
 **abya-r/abya-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,6 +51,7 @@ hobbies: {"Reading, Journaling}
 
 ```
 
+
 <h2>Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="45" height="45"/>
@@ -65,5 +67,4 @@ hobbies: {"Reading, Journaling}
 </p>
 
 ## My GitHub History
-
 ![snake](https://raw.githubusercontent.com/abya-r/abya-r/output/github-contribution-grid-snake.svg)
