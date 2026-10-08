@@ -2,7 +2,7 @@
 
 ## Let's Connect:
 <a href="https://www.linkedin.com/in/abya-rao/">
-  <img height="50" src="https://cdn-icons-png.magnific.com/512/785/785312.png"/>
+  <img height="50" src="https://cdn-icons-png.magnific.com/512/216/216508.png?ga=GA1.1.1645818351.1791464127"/>
 </a>
 
 
