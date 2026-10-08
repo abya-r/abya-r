@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# A Little About Me and My Interests
+## A Little About Me and My Interests
 ```yaml
 name: Abya Rao
 located_in: Bettiah, Bihar
