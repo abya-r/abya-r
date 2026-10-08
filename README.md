@@ -63,3 +63,7 @@ hobbies: {"Reading, Journaling}
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
 </p>
+
+## My GitHub History!
+
+![Snake animation](https://github.com/abya-r/abya-r/blob/output/github-contribution-grid-snake.svg)
