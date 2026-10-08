@@ -21,3 +21,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# A Little About Me and My Interests
+```yaml
+name: Abya Rao
+located_in: Bettiah, Bihar
+currently: Pursuing B.Tech. in CSE
+education:
+{
+  "Spohomore at College"
+}
+University: JUET
+
+fields_of_interest:
+{
+  "IoT",
+  "Web Development",
+  "Cybersecurity",
+  "Data Science",
+}
+
+technical_background:
+{
+}
+
+currently_learning: {"Python, NodeJs, and Java}
+hobbies: {"Reading, Journaling}
+
+```
