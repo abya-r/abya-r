@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hello%20There!&fontSize=90)
 
+## Let's Connect:
+<a href="https://www.linkedin.com/in/abya-rao/">
+  <img height="50" src="https://cdn-icons-png.magnific.com/512/785/785312.png"/>
+</a>
+
 
 
 <!--
